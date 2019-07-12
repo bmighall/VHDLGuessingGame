@@ -6,3 +6,4 @@ This program is a simple guessing game; switches 2, 1, and 0 indicate a binary n
 Note: This program may require you to slightly alter the constraints file to suppress warnings about clock in order to run it. 
 The easiest way to do it: if you're using Vivado, just copy and paste the suppression code they give you into the constraints file after you do synthesis/implementation.
 
+The following code was written as part of coursework for University of Mississippi class EL E 386 (Advanced Digital Systems Lab), and using an Artix-7 family Nexys 4 FPGA board. Constraints file is included in this repository.
